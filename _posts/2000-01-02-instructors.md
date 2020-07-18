@@ -49,7 +49,7 @@ fa-icon: info
 </div>
 
 <div class="author">
-      <div class="authorphoto"><img src="img/guests/OriolVinyals-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/instructors/OriolVinyals-160x160.jpg"></div>
       <div><a href="https://research.google.com/pubs/OriolVinyals.html" target="_blank">Oriol Vinyals</a></div>
       <div><a href="https://deepmind.com/">Google Deepmind</a></div>
 </div>
