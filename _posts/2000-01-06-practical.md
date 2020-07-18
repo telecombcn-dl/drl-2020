@@ -18,6 +18,8 @@ fa-icon: check
 * Room: TBD
 * Location: [Campus Nord UPC Barcelona](https://imatge.upc.edu/web/contact)
 * Course on [Atenea] (TBD)
+* Official program ("guia docent"): [Draft](https://github.com/telecombcn-dl/drl-2020/blob/gh-pages/arap-2020-guia.pdf)
+* Feedback & Questions: Please use the [Github Issues] section.(https://github.com/telecombcn-dl/drl-2020/issues).
 
 [idl]: https://telecombcn-dl.github.io/idl-2020/
 [aa2]: https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-data-science-and-engineering/curriculum/syllabus/AA2-GCED
