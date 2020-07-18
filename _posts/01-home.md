@@ -14,30 +14,8 @@ style: center
 
 ### UPC ETSETB TelecomBCN (Autumn 2020)
 
-Reinforcement learning is an area of machine learning concerned by how software
-agents ought to take actions in an environment so as to maximize some notion of
-cumulative reward. The problem, due to its generality, is studied in many other
-disciplines, such as game theory, control theory, operations research, information
-theory, simulation-based optimization, multi-agent systems, swarm intelligence,
-statistics, and genetic algorithms. In the operations research and control literature, the
-field where reinforcement learning methods are studied is called approximate dynamic
-programming. In machine learning, the environment is typically formulated as a
-Markov decision process (MDP), as many reinforcement learning algorithms for this
-context utilize dynamic programming techniques. The main difference between the
-classical techniques and reinforcement learning algorithms is that the latter do not need
-knowledge about the MDP and they target large MDPs where exact methods become
-infeasible.
+This course presents the principles of reinforcement learning as an artificial intelligence tool based on the interaction of the machine with its environment, with applications to control tasks (eg. robotics, autonomous driving) o decision making (eg. resource optimization in wireless communication networks).
+It also advances in the development of deep neural networks trained with little or no supervision, both for discriminative and generative tasks, with special attention on multimedia applications (vision, language and speech).
 
-Reinforcement learning differs from standard supervised learning in that correct
-input/output pairs are never presented, nor sub-optimal actions explicitly corrected.
-Further, there is a focus on on-line performance, which involves finding a balance
-between exploration (of uncharted territory) and exploitation (of current knowledge),
-and getting rewards from the environment.
 
-The course explores automated decision making from a computational perspective. It
-examines efficient algorithms, where they exist as well as approaches to learning near-
-optimal decisions from experience.  Topics include Markov decision processes, model-
-free learning and deep reinforcement learning. Of particular interest will be issues of
-generalization, exploration, and representation. Students will apply concepts to practical
-problems.
 
