@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Reinforcement Learning UPC 2020"
+title:       "Deep and Reinforcement Learning UPC 2020"
 keywords:    "artificial intelligence, deep learning, reinforcement learning, teaching, course, barcelona, upc, catalonia"
-description: "Course page for Reinforcement Learning at UPC TelecomBCN, Barcelona, Catalonia."
-source_link: "https://telecombcn-dl.github.io/mrl-2020/"
+description: "Course page for Deep and Reinforcement Learning at UPC TelecomBCN, Barcelona, Catalonia."
+source_link: "https://telecombcn-dl.github.io/drl-2020/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 
