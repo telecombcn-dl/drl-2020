@@ -8,7 +8,7 @@ fa-icon: check
 ## Practical details
 
 * Study Programs: Bachelor degrees on [Data Science Engineering (GCED)][dse] and [Telecommunication Engineerning (GRETST][gretst] at [ETSETB TelecomBCN](http://etsetb.upc.edu/ca) from the [Universitat Politecnica de Catalunya][upc] in Barcelona.
-* Course code and official guide: [230817 - ARAP](https://github.com/telecombcn-dl/drl-2020/blob/gh-pages/arap-2020-guia.pdf)
+* Course code and official guide: [230817 - ARAP](https://www.upc.edu/content/grau/guiadocent/pdf/cat/230817)
 * Requirements: [Aprenentatge Automatic 2 (GCED)][aa2] or [Introduction to Deep Learning (GRETST)][idl]. MSc students cannot sign up to this course.
 * Language: Catalan (course material in English)
 * ECTS credits: 6 ECTS
