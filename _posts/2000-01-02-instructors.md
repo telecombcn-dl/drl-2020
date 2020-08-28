@@ -50,7 +50,7 @@ fa-icon: info
 
 <div class="author">
     <a href="https://alet-etal.com" target="_blank">
-      <div class="authorphoto"><img src="img/guests/Ferran Alet-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/guests/FerranAlet-160x160.jpg"></div>
       <div>Ferran Alet</div>
       <div><a href="https://www.csail.mit.edu/">MIT CSAIL</a></div>
     </a>
