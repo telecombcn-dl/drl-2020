@@ -15,13 +15,16 @@ fa-icon: check
 * Semester: Autumn 2020
 * Dates: September 14 - December 14, 2020
 * Schedule: Lectures on Mondays 12pm-2pm, Labs on Mondays 10am-12pm or Tuesdays 12pm-2pm
-* Room: TBD
+* [Room][room]: A4104+A4105 (Lectures) / A4105 (Labs)
 * Location: [Campus Nord UPC Barcelona](https://imatge.upc.edu/web/contact)
-* Course on [Atenea] (TBD)
+* Course on [Atenea][atenea]
 * Feedback & Questions: Please use the [Github Issues] section.(https://github.com/telecombcn-dl/drl-2020/issues).
 
 [idl]: https://telecombcn-dl.github.io/idl-2020/
 [aa2]: https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-data-science-and-engineering/curriculum/syllabus/AA2-GCED
 [dse]: https://dse.upc.edu/en
 [gretst]: https://telecos.upc.edu/en/study-programs/degrees/bachelors-degree-in-telecommunications-technologies-and-services-engineering?set_language=en
+[atenea]: https://atenea.upc.edu/course/view.php?id=63606
 [upc]: http://www.upc.edu/?set_language=en
+
+[room]: https://telecos.upc.edu/ca/shared/curs-actual/optatives-graus-tardor/optatives-graus_tardor_19_v10.pdf
