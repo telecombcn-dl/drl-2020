@@ -30,6 +30,13 @@ fa-icon: info
 </div>
 
 <div class="author">
+    <a href="https://www.linkedin.com/in/juan-jose-nieto-salas/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/JunajoNieto-160x160.jpg"></div>
+      <div>Juan José Nieto</div>
+    </a>
+</div>
+
+<div class="author">
 <a href="https://spcom.upc.edu/en/people/jose-vidal-manzano" target="_blank">
    <div class="authorphoto"><img src="img/instructors/JosepVidal-160x160.jpg"></div>
    <div>Josep Vidal</div>
