@@ -31,7 +31,7 @@ fa-icon: info
 
 <div class="author">
     <a href="https://www.linkedin.com/in/juan-jose-nieto-salas/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/JunajoNieto-160x160.jpg"></div>
+      <div class="authorphoto"><img src="img/instructors/JuanjoNieto-160x160.jpg"></div>
       <div>Juan José Nieto</div>
     </a>
 </div>
