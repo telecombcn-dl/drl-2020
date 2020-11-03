@@ -46,7 +46,7 @@ fa-icon: info
     <a href="https://www.linkedin.com/in/victor-campos-camunez/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/VictorCampos-160x160.jpg"></div>
       <div>Víctor Campos</div>
-        <div>UPC</div>
+        <div>UPC-BSC</div>
         <div><a href="https://youtu.be/rZRNHJ_15Bo">[Talk]</div>
     </a>
 </div>
