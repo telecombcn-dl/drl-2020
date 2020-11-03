@@ -47,11 +47,9 @@ fa-icon: info
       <div class="authorphoto"><img src="img/instructors/VictorCampos-160x160.jpg"></div>
       <div>Víctor Campos</div>
         <div>UPC-BSC</div>
-        <div><a href="https://youtu.be/rZRNHJ_15Bo">[Talk]</div>
+        <div><a href="https://youtu.be/rZRNHJ_15Bo">[Talk]</a></div>
     </a>
 </div>
-
-
 <div class="author">
     <a href="https://alet-etal.com" target="_blank">
       <div class="authorphoto"><img src="img/guests/FerranAlet-160x160.jpg"></div>
