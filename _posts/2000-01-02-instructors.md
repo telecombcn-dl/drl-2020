@@ -15,12 +15,7 @@ fa-icon: info
     </a>
 </div>
 
-<div class="author">
-    <a href="https://www.linkedin.com/in/victor-campos-camunez/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/VictorCampos-160x160.jpg"></div>
-      <div>Víctor Campos</div>
-    </a>
-</div>
+
 
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/xavier-giro" target="_blank">
@@ -46,6 +41,16 @@ fa-icon: info
 <br><br>
 
 ### Guests 
+
+<div class="author">
+    <a href="https://www.linkedin.com/in/victor-campos-camunez/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/VictorCampos-160x160.jpg"></div>
+      <div>Víctor Campos</div>
+        <div>UPC</div>
+        <div><a href="https://youtu.be/rZRNHJ_15Bo">[Talk]</div>
+    </a>
+</div>
+
 
 <div class="author">
     <a href="https://alet-etal.com" target="_blank">
