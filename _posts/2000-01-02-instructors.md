@@ -46,10 +46,11 @@ fa-icon: info
     <a href="https://www.linkedin.com/in/victor-campos-camunez/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/VictorCampos-160x160.jpg"></div>
       <div>Víctor Campos</div>
-        <div>UPC-BSC</div>
+      <div><a href="https://www.upc.edu/">UPC</a>-<a href="https://bsc.es/">BSC</a></div>
         <div><a href="https://youtu.be/rZRNHJ_15Bo">[Talk]</a></div>
     </a>
 </div>
+
 <div class="author">
     <a href="https://alet-etal.com" target="_blank">
       <div class="authorphoto"><img src="img/guests/FerranAlet-160x160.jpg"></div>
@@ -57,7 +58,6 @@ fa-icon: info
       <div><a href="https://www.csail.mit.edu/">MIT CSAIL</a></div>
     </a>
 </div>
-
 <div class="author">
     <a href="https://iclavera.github.io/" target="_blank">
       <div class="authorphoto"><img src="img/guests/IgnasiClavera-160x160.jpg"></div>
@@ -65,7 +65,6 @@ fa-icon: info
       <div><a href="https://bair.berkeley.edu/">Berkeley BAIR</a></div>
     </a>
 </div>
-
 <div class="author">
     <a href="https://sites.google.com/view/carlosflorensa" target="_blank">
       <div class="authorphoto"><img src="img/guests/CarlosFlorensa-160x160.jpg"></div>
@@ -73,15 +72,14 @@ fa-icon: info
       <div><a href="https://covariant.ai/">Covariant</a></div>
     </a>
 </div>
-
 <div class="author">
     <a href="https://torres.ai/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/JordiTorres-160x160.jpg"></div>
       <div>Jordi Torres</div>
-      <div><a href="https://bsc.es/">BSC</a></div>
+      <div><a href="https://www.upc.edu/">UPC</a>-<a href="https://bsc.es/">BSC</a></div>
+      <div><a href="https://youtu.be/h9VOi39MtKc">[Talk]</a></div>        
     </a>
 </div>
-
 <div class="author">
       <div class="authorphoto"><img src="img/guests/OriolVinyals-160x160.jpg"></div>
       <div><a href="https://research.google.com/pubs/OriolVinyals.html" target="_blank">Oriol Vinyals</a></div>
