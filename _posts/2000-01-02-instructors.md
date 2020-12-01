@@ -63,6 +63,7 @@ fa-icon: info
       <div class="authorphoto"><img src="img/guests/IgnasiClavera-160x160.jpg"></div>
       <div>Ignasi Clavera</div>
       <div><a href="https://bair.berkeley.edu/">Berkeley BAIR</a></div>
+        <div><a href="https://youtu.be/AHgkmzdmvZE">[Talk]</a></div>          
     </a>
 </div>
 <div class="author">
