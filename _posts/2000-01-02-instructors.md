@@ -71,6 +71,7 @@ fa-icon: info
       <div class="authorphoto"><img src="img/guests/CarlosFlorensa-160x160.jpg"></div>
       <div>Carlos Florensa</div>
       <div><a href="https://covariant.ai/">Covariant</a></div>
+      <div><a href="https://youtu.be/47vzPmOLdps">[Talk]</a></div>
     </a>
 </div>
 <div class="author">
@@ -85,4 +86,6 @@ fa-icon: info
       <div class="authorphoto"><img src="img/guests/OriolVinyals-160x160.jpg"></div>
       <div><a href="https://research.google.com/pubs/OriolVinyals.html" target="_blank">Oriol Vinyals</a></div>
       <div><a href="https://deepmind.com/">Google Deepmind</a></div>
+      <div><a href="https://youtu.be/IjZLZSZxvIs">[Talk 1]</a></div>
+      <div><a href="https://youtu.be/2qyUFBSHYIc">[Talk 2]</a></div>
 </div>
