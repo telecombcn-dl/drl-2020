@@ -56,6 +56,7 @@ fa-icon: info
       <div class="authorphoto"><img src="img/guests/FerranAlet-160x160.jpg"></div>
       <div>Ferran Alet</div>
       <div><a href="https://www.csail.mit.edu/">MIT CSAIL</a></div>
+      <div><a href="https://youtu.be/s4NxGoK3Fzs">[Talk]</a></div>   
     </a>
 </div>
 <div class="author">
