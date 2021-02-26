@@ -37,6 +37,12 @@ fa-icon: info
    <div>Josep Vidal</div>
 </a>
 </div>
+<div class="author">
+    <a href="https://www.albertmosellamontoro.com/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/AlbertMosella-160x160.jpg"></div>
+      <div>Albert Mosella</div>
+    </a>
+</div>
 
 <br><br>
 
